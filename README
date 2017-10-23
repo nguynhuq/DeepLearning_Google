@@ -1,0 +1,3 @@
+This is a git repository for Assignment 1 of the online cours Deep Learning by Google.
+
+Objectif: Train a model on the notMNIST dataset, which is able to recognize a subset of English letters in different fonts.
